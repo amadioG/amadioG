@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me
-Hi there! I'm **Gustavo Amadio**. Currently, I'm a high school student studying IT at IFRO and working on my portfolio. I'm passionate about coding and learning new technologies.
+Hi there! I'm **Gustavo Amadio**. Currently, I'm a high school student studying IT at IFRO and working on my portfolio.
 
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/687799998183637016)
